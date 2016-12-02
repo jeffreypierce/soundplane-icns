@@ -2,7 +2,7 @@
 A replacement icon for [Madrona Labs](http://madronalabs.com/soundplane) Soundplane application.
 ![soundplane](https://raw.githubusercontent.com/jeffreypierce/soundplane-icns/master/img/soundplane%400.5x.png)
 
-While the original icon was rendered beatifully, it's skeuomorphic style did not match or fit in with the rest of the applications on my dock. 
+While the original icon was rendered beautifully, its skeuomorphic style did not fit in with the rest of the applications on my dock. 
 
 ![soundplane-in-dock](https://raw.githubusercontent.com/jeffreypierce/soundplane-icns/master/img/soundplane-in-dock.png)
 
