@@ -1,10 +1,10 @@
 # soundplane-icns
 A replacement icon for [Madrona Labs](http://madronalabs.com/soundplane) Soundplane application.
-![soundplane](https://raw.githubusercontent.com/jeffreypierce/soundplane-icns/master/img/soundplane%400.5x.png)
+![soundplane](https://github.com/jeffreypierce/soundplane-icns/blob/master/img/soundplane.svg)
 
 While the original icon was rendered beautifully, its skeuomorphic style did not fit in nicely with the rest of the applications on my dock. 
 
-![soundplane-in-dock](https://raw.githubusercontent.com/jeffreypierce/soundplane-icns/master/img/soundplane-in-dock.png)
+![soundplane-in-dock](https://raw.githubusercontent.com/jeffreypierce/soundplane-icns/master/img/soundplane-in-deck.png)
 
 
 To replace:
