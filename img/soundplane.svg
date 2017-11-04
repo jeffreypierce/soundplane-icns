@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
     <title>soundplane</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
-            <feOffset dx="1" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+        <filter x="-3.0%" y="-1.5%" width="105.3%" height="103.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.287618886 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
             <feMerge>
@@ -23,22 +23,19 @@
         </linearGradient>
         <linearGradient x1="26.8663194%" y1="0%" x2="70.2473958%" y2="100%" id="linearGradient-4">
             <stop stop-color="#FAFAFA" offset="0%"></stop>
-            <stop stop-color="#FCEDD6" stop-opacity="0.842334692" offset="100%"></stop>
+            <stop stop-color="#FBECD6" stop-opacity="0.842334692" offset="100%"></stop>
         </linearGradient>
         <linearGradient x1="37.4668258%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#664B38" offset="0%"></stop>
-            <stop stop-color="#3C2C21" offset="100%"></stop>
+            <stop stop-color="#664C38" offset="0%"></stop>
+            <stop stop-color="#3D2C22" offset="100%"></stop>
         </linearGradient>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
             <stop stop-color="#59473A" offset="0%"></stop>
             <stop stop-color="#000000" offset="100%"></stop>
         </linearGradient>
         <rect id="path-7" x="5.68434189e-14" y="0" width="512" height="704" rx="10"></rect>
-        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="512" height="704" fill="white">
-            <use xlink:href="#path-7"></use>
-        </mask>
-        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-9">
-            <feOffset dx="1" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+        <filter x="-11.4%" y="-1.7%" width="118.2%" height="105.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="-2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.287618886 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
             <feMerge>
@@ -46,25 +43,16 @@
                 <feMergeNode in="SourceGraphic"></feMergeNode>
             </feMerge>
         </filter>
-        <rect id="path-10" x="2" y="-2.84217094e-14" width="28" height="18"></rect>
-        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="18" fill="white">
-            <use xlink:href="#path-10"></use>
-        </mask>
-        <rect id="path-12" x="18" y="4" width="8" height="5"></rect>
-        <mask id="mask-13" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="5" fill="white">
-            <use xlink:href="#path-12"></use>
-        </mask>
-        <rect id="path-14" x="6" y="4" width="8" height="5"></rect>
-        <mask id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="5" fill="white">
-            <use xlink:href="#path-14"></use>
-        </mask>
+        <rect id="path-9" x="2" y="-2.84217094e-14" width="28" height="18"></rect>
+        <rect id="path-10" x="18" y="4" width="8" height="5"></rect>
+        <rect id="path-11" x="6" y="4" width="8" height="5"></rect>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="soundplane">
-            <g filter="url(#filter-1)" transform="translate(256.000000, 64.000000)">
+            <g filter="url(#filter-1)" transform="translate(575.000000, 512.000000) rotate(-9.000000) translate(-575.000000, -512.000000) translate(255.000000, 64.000000)">
                 <g id="base">
                     <g>
-                        <rect id="Rectangle-3" fill="#C5A07B" x="0" y="831.518797" width="640" height="64.481203" rx="20"></rect>
+                        <rect id="Rectangle-3" fill="#C4A07B" x="0" y="735" width="640" height="161" rx="20"></rect>
                         <rect id="Rectangle" fill="url(#linearGradient-2)" x="0" y="0" width="640" height="864" rx="20"></rect>
                     </g>
                     <g id="power-light" transform="translate(63.000000, 800.000000)">
@@ -73,7 +61,10 @@
                     </g>
                 </g>
                 <g id="board" transform="translate(63.000000, 32.000000)">
-                    <use stroke="url(#linearGradient-6)" mask="url(#mask-8)" stroke-width="6" fill="url(#linearGradient-5)" xlink:href="#path-7"></use>
+                    <g>
+                        <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <rect stroke="url(#linearGradient-6)" stroke-width="3" x="1.5" y="1.5" width="509" height="701" rx="10"></rect>
+                    </g>
                     <g id="lines" transform="translate(95.000000, 4.000000)" stroke="#2D221B" stroke-width="2" stroke-linecap="square" opacity="0.799649004">
                         <path d="M1,0 L1,696" id="Line"></path>
                         <path d="M97,0 L97,696" id="Line"></path>
@@ -82,41 +73,50 @@
                     </g>
                     <g id="dots" transform="translate(224.000000, 87.000000)" stroke="#AD8C6A" fill="#F3D3A2" opacity="0.802321117">
                         <g id="dot" transform="translate(0.000000, 544.000000)">
-                            <circle id="Oval-4" cx="9.5" cy="9.5" r="9.5"></circle>
+                            <ellipse id="Oval-4" cx="9" cy="8.55" rx="9" ry="8.55"></ellipse>
                         </g>
                         <g id="dot" transform="translate(46.000000, 544.000000)">
-                            <circle id="Oval-4" cx="9.5" cy="9.5" r="9.5"></circle>
+                            <ellipse id="Oval-4" cx="9" cy="8.55" rx="9" ry="8.55"></ellipse>
                         </g>
                         <g id="dot" transform="translate(23.000000, 416.000000)">
-                            <circle id="Oval-4" cx="9.5" cy="9.5" r="9.5"></circle>
+                            <ellipse id="Oval-4" cx="9" cy="8.55" rx="9" ry="8.55"></ellipse>
                         </g>
                         <g id="dot" transform="translate(23.000000, 224.000000)">
-                            <circle id="Oval-4" cx="9.5" cy="9.5" r="9.5"></circle>
+                            <ellipse id="Oval-4" cx="9" cy="8.55" rx="9" ry="8.55"></ellipse>
                         </g>
                         <g id="dot" transform="translate(23.000000, 128.000000)">
-                            <circle id="Oval-4" cx="9.5" cy="9.5" r="9.5"></circle>
+                            <ellipse id="Oval-4" cx="9" cy="8.55" rx="9" ry="8.55"></ellipse>
                         </g>
                         <g id="dot" transform="translate(46.000000, 0.000000)">
-                            <circle id="Oval-4" cx="9.5" cy="9.5" r="9.5"></circle>
+                            <ellipse id="Oval-4" cx="9" cy="8.55" rx="9" ry="8.55"></ellipse>
                         </g>
                         <g id="dot">
-                            <circle id="Oval-4" cx="9.5" cy="9.5" r="9.5"></circle>
+                            <ellipse id="Oval-4" cx="9" cy="8.55" rx="9" ry="8.55"></ellipse>
                         </g>
                         <g id="dot" transform="translate(23.000000, 320.000000)">
-                            <circle id="Oval-4" cx="9.5" cy="9.5" r="9.5"></circle>
+                            <ellipse id="Oval-4" cx="9" cy="8.55" rx="9" ry="8.55"></ellipse>
                         </g>
                     </g>
                 </g>
             </g>
-            <g id="usb-cable" filter="url(#filter-9)" transform="translate(36.000000, 128.000000)">
+            <g id="usb-cable" filter="url(#filter-8)" transform="translate(143.000000, 535.500000) rotate(-9.000000) translate(-143.000000, -535.500000) translate(33.000000, 146.000000)">
                 <path d="M214.002267,228.485691 C214.002267,228.485691 160.971363,235.393839 127.218148,228.485691 C77.5767212,218.32576 34.6171941,204.977744 10.6835938,161.0609 C-13.2500066,117.144055 1.765625,32.5804311 85.78125,32.5804311 C169.796875,32.5804311 206.636719,93.2679311 185.457031,144.955431 C164.277344,196.642931 63.5807843,274.697057 50.1641104,372.967126 C32.4564197,502.666631 139.685897,761.807183 139.685897,778.75" id="cable" stroke="#4F4F4F" stroke-width="11" transform="translate(107.200652, 405.665216) scale(1, -1) translate(-107.200652, -405.665216) "></path>
                 <g id="head" transform="translate(141.000208, 31.500000) rotate(16.000000) translate(-141.000208, -31.500000) translate(125.000208, 4.000000)">
-                    <use id="Rectangle-5" stroke="#909090" mask="url(#mask-11)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-10"></use>
-                    <use id="Rectangle-6-Copy" stroke="#909090" mask="url(#mask-13)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-12"></use>
-                    <use id="Rectangle-6-Copy-2" stroke="#909090" mask="url(#mask-15)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-14"></use>
+                    <g id="Rectangle-5">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <rect stroke="#909090" stroke-width="1" x="2.5" y="0.5" width="27" height="17"></rect>
+                    </g>
+                    <g id="Rectangle-6-Copy">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-10"></use>
+                        <rect stroke="#909090" stroke-width="1" x="18.5" y="4.5" width="7" height="4"></rect>
+                    </g>
+                    <g id="Rectangle-6-Copy-2">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        <rect stroke="#909090" stroke-width="1" x="6.5" y="4.5" width="7" height="4"></rect>
+                    </g>
                     <path d="M31.8379683,40.6666667 L32,40.6666667 L32,12 L-4.26325641e-14,12 L-4.26325641e-14,40.6666667 L0.162031677,40.6666667 C1.27112804,48.7704805 7.93949278,55 16,55 C24.0605072,55 30.728872,48.7704805 31.8379683,40.6666667 Z" id="Combined-Shape" fill="#4F4F4F"></path>
                 </g>
-                <rect id="butt" fill="#4F4F4F" x="204" y="571" width="16" height="24" rx="2"></rect>
+                <path d="M204,573.004947 C204,571.897645 204.894514,571 205.99406,571 L220,571 L220,595 L205.99406,595 C204.892771,595 204,594.102974 204,592.995053 L204,573.004947 Z" id="butt" fill="#4F4F4F"></path>
             </g>
         </g>
     </g>
