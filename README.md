@@ -1,8 +1,8 @@
 # soundplane-icns
 A replacement icon for [Madrona Labs](http://madronalabs.com/soundplane) Soundplane application.
-![soundplane](https://github.com/jeffreypierce/soundplane-icns/blob/master/img/soundplane.svg)
+![soundplane](https://github.com/jeffreypierce/soundplane-icns/blob/master/img/soundplane.png)
 
-While the original icon was rendered beautifully, its skeuomorphic style did not fit in nicely with the rest of the applications on my dock. 
+While the original icon was rendered beautifully, its skeuomorphic style did not fit in nicely with the rest of the applications on my dock.
 
 ![soundplane-in-dock](https://raw.githubusercontent.com/jeffreypierce/soundplane-icns/master/img/soundplane-in-deck.png)
 
@@ -14,5 +14,3 @@ To replace:
     * `touch /Applications/Soundplane.app`
     * `touch /Applications/Soundplane.app/Contents/Info.plist`
   4. Replace the icon on your dock and voila!
-
-
